@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+sqlparse
+SQLAlchemy
+langchain-groq
+python-dotenv
+mysql-connector-python
+psycopg2-binary

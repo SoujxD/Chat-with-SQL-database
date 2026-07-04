@@ -18,11 +18,16 @@ duckdb
 pandas
 openai
 langchain-groq
+fastapi
+uvicorn[standard]
+sqlparse
+httpx
 duckduckgo_search==5.3.1b1
 pymupdf
 arxiv
 wikipedia
 mysql-connector-python
+psycopg2-binary
 SQLAlchemy
 validators==0.28.1
 youtube_transcript_api
